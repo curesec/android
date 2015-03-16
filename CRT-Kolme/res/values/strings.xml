@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CRT-Kolme</string>
+    <string name="action_settings">About</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="title_activity_about">About</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
